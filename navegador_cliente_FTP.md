@@ -1,7 +1,7 @@
 # Uso del navegador como cliente FTP
 
 ## Acceso al servidor FTP desde un navegador
-Debido a que varios navegadores modernos han eliminado el soporte nativo para el protocolo FTP por motivos de seguridad, si tratamos de acceder al servidor desde aquí habiendo previamente puesto a correr el servidor en FileZilla Server Administration, y luego poniendo en la url "ftp://" más la ip (en mi caso uso el usuario anonymouse por lo que no debo de especificar usuario y contraseña) no nos dejará y se nos indicará que usemos un complemento para poder realizar la tarea, dejando al navegador actuando simplemente como un "puente".
+Debido a que varios navegadores modernos han eliminado el soporte nativo para el protocolo FTP por motivos de seguridad, si tratamos de acceder al servidor desde aquí habiendo previamente puesto a correr el servidor en FileZilla Server Administration, y luego poniendo en la url "ftp://" más la ip (en mi caso uso el usuario anonymous por lo que no debo de especificar usuario y contraseña) no nos dejará y se nos indicará que usemos un complemento para poder realizar la tarea, dejando al navegador actuando simplemente como un "puente".
 ![Acceso al servidor FTP desde un navegador](https://github.com/JavierMoralesSimon/navegadorClienteFTP/blob/main/Capturas/1.png)
 
 ## Limitaciones frente a un cliente dedicado
